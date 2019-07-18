@@ -96,7 +96,7 @@ function App() {
                     <div className="col-xl-5 col-lg-6">
                         <div className="header-content-right">
                             <h4 className="sub-title">Hello, I’m</h4>
-                            <h1 className="title">Mark Parker</h1>
+                            <h1 className="title">Gopala Krishnan.R</h1>
                             <p>A Freelance UI Designer & Web Developer</p>
                             <a className="main-btn" href="#work">View my Work</a>
                         </div> {/* <!--  header content right --> */}
